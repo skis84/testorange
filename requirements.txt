@@ -1,0 +1,6 @@
+
+pandas
+delegator.py==0.1.0
+lxml~=4.9.1
+click
+python-Levenshtein==0.12.0
