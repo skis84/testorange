@@ -1,0 +1,14 @@
+{
+  "name": "testorange",
+  "version": "1.0.0",
+  "description": "Test project for PR testing",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass scss/ -o ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "4.13.1"
+  }
+}
