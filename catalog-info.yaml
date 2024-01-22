@@ -4,6 +4,7 @@ metadata:
   name: testorange
   annotations:
     github.com/project-slug: skis84/testorange
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
