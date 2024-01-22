@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: testorange
+  annotations:
+    github.com/project-slug: skis84/testorange
+spec:
+  type: other
+  lifecycle: unknown
+  owner: skis84
