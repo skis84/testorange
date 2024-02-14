@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
+import json
 
 # Some comments here
 dates = pd.date_range("20130101", periods=6)
